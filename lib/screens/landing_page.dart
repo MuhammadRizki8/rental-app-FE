@@ -15,7 +15,7 @@ class LandingPage extends StatelessWidget {
             SizedBox(
               height: 150,
             ),
-            Image.asset('assets/images/landing.png',
+            Image.asset('assets/images/splash.png',
                 width: 100, height: 100), // Mengurangi ukuran gambar
             SizedBox(height: 20),
             Text(

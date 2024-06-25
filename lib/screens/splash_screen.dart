@@ -28,7 +28,7 @@ class _SplashScreenState extends State<SplashScreen> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Image.asset('assets/images/splash.png', width: 150, height: 150),
+            Image.asset('assets/images/landing.png', width: 150, height: 150),
             SizedBox(height: 20),
             SpinKitChasingDots(
               color: Colors.white,
